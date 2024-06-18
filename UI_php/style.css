@@ -1,0 +1,14 @@
+h1{
+    background-color: aquamarine;
+}
+h2{
+    background-color: rgba(143, 144, 206, 0.801);
+    height: auto;
+    width: 200px;
+}
+body{
+    background-color: azure;
+}
+label{
+    background-color: violet;
+    } 
